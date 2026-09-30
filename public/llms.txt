@@ -1,0 +1,27 @@
+# Valery Verkhoturov
+
+> Senior Backend Developer specializing in Go. Works at RWB, building a financial
+> reporting system with PostgreSQL, Kubernetes, Apache Kafka and Apache Cassandra.
+> Writes articles on Habr about OAuth in CLI apps, retrieval-augmented generation
+> (RAG) with ChatGPT/YandexGPT, and LaTeX thesis automation.
+
+## Links
+
+- [GitHub](https://github.com/ValeryVerkhoturov): open-source code and profile
+- [Telegram](https://t.me/ValerianaOfficinalis): direct contact
+- [Habr](https://habr.com/ru/users/ValeryV/): articles and profile (Russian)
+
+## Projects
+
+- [wb-api-client](https://github.com/ValeryVerkhoturov/wb-api-client): auto-generated Wildberries Seller API clients in Python, TypeScript, Go, Java, PHP, OneScript and C#, published daily to PyPI, npm, Maven Central, Packagist, NuGet and hub.oscript.io
+- [json-streaming](https://github.com/ValeryVerkhoturov/json-streaming): Go library for streaming read/write of JSON arrays with constant memory usage, ~3x throughput over encoding/json
+- [multiagent-golang](https://github.com/ValeryVerkhoturov/multiagent-golang): LLM-agnostic multi-agent framework based on layered parallel communication of agents
+- [onescript-openapi-generator](https://github.com/ValeryVerkhoturov/onescript-openapi-generator): OpenAPI Generator plugin that generates a OneScript (opm) client from an OpenAPI 3 spec
+- [vitepress-editorial-modernist](https://github.com/ValeryVerkhoturov/vitepress-editorial-modernist): CSS-only editorial-modernist theme layer for VitePress
+- [mirea-kb2-programming-languages](https://github.com/ValeryVerkhoturov/mirea-kb2-programming-languages): XeLaTeX template for the MIREA "Programming Languages" course work
+
+## Articles
+
+- [Авторизация в CLI приложении с помощью OAuth](https://habr.com/ru/users/ValeryV/) (Russian)
+- [Retrieval-Augmented Generation in technical support service based on ChatGPT, YandexGPT](https://habr.com/ru/users/ValeryV/) (English / Russian)
+- [Автоматизация написания ВКР: LaTeX, GitHub, Google Drive и ChatGPT в действии](https://habr.com/ru/users/ValeryV/) (Russian)
