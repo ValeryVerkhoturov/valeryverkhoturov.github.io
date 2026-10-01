@@ -138,13 +138,13 @@ function About() {
     <section className="about" id="about">
       <h2>About</h2>
       <p>
-        Backend software engineer specializing in Go. Works at RWB, building a financial
-        reporting system with PostgreSQL, Kubernetes, Apache Kafka and Apache Cassandra.
+        Backend software engineer specializing in Go. Works at RWB, building a financial reporting
+        system with PostgreSQL, Kubernetes, Apache Kafka and Apache Cassandra.
       </p>
       <p>
-        Writes articles on Habr about CLI authorization with OAuth, retrieval-augmented
-        generation (RAG) in technical support with ChatGPT and YandexGPT, and automating
-        thesis writing with LaTeX, GitHub, Google Drive and ChatGPT.
+        Writes articles on Habr about CLI authorization with OAuth, retrieval-augmented generation
+        (RAG) in technical support with ChatGPT and YandexGPT, and automating thesis writing with
+        LaTeX, GitHub, Google Drive and ChatGPT.
       </p>
     </section>
   );
